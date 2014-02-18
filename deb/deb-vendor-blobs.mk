@@ -181,6 +181,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/deb/proprietary/vendor/firmware/wcnss.b04:system/vendor/firmware/wcnss.b04 \
     vendor/asus/deb/proprietary/vendor/firmware/wcnss.b05:system/vendor/firmware/wcnss.b05 \
     vendor/asus/deb/proprietary/vendor/firmware/wcnss.mdt:system/vendor/firmware/wcnss.mdt \
+    vendor/asus/flo/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/asus/deb/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/asus/deb/proprietary/vendor/lib/libgemini.so:system/vendor/lib/libgemini.so \
     vendor/asus/deb/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
@@ -206,4 +207,5 @@ PRODUCT_COPY_FILES += \
     vendor/asus/deb/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
     vendor/asus/deb/proprietary/vendor/lib/libmmstillomx.so:system/vendor/lib/libmmstillomx.so \
     vendor/asus/deb/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
-    vendor/asus/deb/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so
+    vendor/asus/deb/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
+    vendor/asus/flo/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
